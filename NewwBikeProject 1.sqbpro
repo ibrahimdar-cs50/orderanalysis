@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="Bikestore_final.db" readonly="0" foreign_keys="0" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2698"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="order_items_master" custom_title="0" dock_id="5" table="4,18:mainorder_items_master"/><dock_state state="000000ff00000000fd0000000100000002000005f4000002aefc0100000002fb000000160064006f0063006b00420072006f00770073006500310100000000000005f40000000000000000fc00000000000005f40000012400fffffffa000000000100000003fb000000160064006f0063006b00420072006f00770073006500350100000000ffffffff0000012400fffffffb000000160064006f0063006b00420072006f00770073006500340000000000ffffffff0000000000000000fb000000160064006f0063006b00420072006f00770073006500350000000000ffffffff0000000000000000000005f40000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="brands" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="0" mode="0"/></sort><column_widths><column index="1" value="62"/><column index="2" value="101"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="categories" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="156"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="customers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="78"/><column index="2" value="93"/><column index="3" value="93"/><column index="4" value="117"/><column index="5" value="257"/><column index="6" value="234"/><column index="7" value="179"/><column index="8" value="36"/><column index="9" value="58"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="order_items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="78"/><column index="2" value="62"/><column index="3" value="69"/><column index="4" value="55"/><column index="5" value="62"/><column index="6" value="56"/><column index="7" value="78"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="order_items_master" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="18" mode="0"/></sort><column_widths><column index="1" value="70"/><column index="2" value="62"/><column index="3" value="69"/><column index="4" value="55"/><column index="5" value="62"/><column index="6" value="56"/><column index="7" value="78"/><column index="8" value="36"/><column index="9" value="62"/><column index="10" value="179"/><column index="11" value="58"/><column index="12" value="79"/><column index="13" value="78"/><column index="14" value="78"/><column index="15" value="85"/><column index="16" value="87"/><column index="17" value="85"/><column index="18" value="93"/><column index="19" value="93"/><column index="20" value="78"/><column index="21" value="74"/></column_widths><filter_values><column index="20" value="-02"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="orders" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="78"/><column index="2" value="78"/><column index="3" value="79"/><column index="4" value="85"/><column index="5" value="87"/><column index="6" value="85"/><column index="7" value="78"/><column index="8" value="78"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="products" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="70"/><column index="2" value="300"/><column index="3" value="62"/><column index="4" value="74"/><column index="5" value="74"/><column index="6" value="70"/></column_widths><filter_values><column index="0" value="prid-20"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="staffs" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="78"/><column index="2" value="85"/><column index="3" value="70"/><column index="4" value="234"/><column index="5" value="117"/><column index="6" value="42"/><column index="7" value="78"/><column index="8" value="75"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="stocks" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="2" mode="1"/></sort><column_widths><column index="1" value="78"/><column index="2" value="70"/><column index="3" value="55"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="stores" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="78"/><column index="2" value="132"/><column index="3" value="117"/><column index="4" value="163"/><column index="5" value="156"/><column index="6" value="85"/><column index="7" value="36"/><column index="8" value="58"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">Step: 1 update rows in different id coloumns in all tables from 1,2,3,4... etc. to varchar values for easy differentitation, interpretation and identification during analysis. 
+
+###brands table###
+
+update brands
+ SET brand_id= case
+WHEN brand_id = 1 then 'BRID-01'
+when brand_id = 2 then 'BRID-02'
+when brand_id = 3 then 'BRID-03'
+when brand_id = 4 then 'BRID-04'
+when brand_id = 5 then 'BRID-05'
+when brand_id = 6 then 'BRID-06'
+when brand_id = 7 then 'BRID-07'
+when brand_id = 8 then 'BRID-08'
+when brand_id = 9 then 'BRID-09'
+else brand_id
+END
+where brand_id IN (1,2,3,4,5,6,7,8,9);
+
+#####categories table#####
+
+update categories
+ SET category_id = case
+WHEN category_id = 1 then 'CTID-01'
+WHEN category_id = 2 then 'CTID-02'
+WHEN category_id = 3 then 'CTID-03'
+WHEN category_id = 4 then 'CTID-04'
+WHEN category_id = 5 then 'CTID-05'
+WHEN category_id = 6 then 'CTID-06'
+WHEN category_id = 7 then 'CTID-07'
+else category_id
+END
+where category_id IN (1,2,3,4,5,6,7);
+
+
+### updateing all rows in order_id, product_id &amp; item_id coloumns in order_items table######
+
+UPDATE order_items
+SET 
+    order_id = 'ORID-' || printf('%02d', order_id),
+    product_id = 'PRID-' || printf('%02d', product_id),
+    item_id = 'ITID-' || printf('%02d', item_id);
+	
+	### updating coloumns in orders table####
+	
+	UPDATE orders
+SET 
+    order_id = 'ORID-' || printf('%02d', order_id),
+    customer_id = 'CSID-' || printf('%02d', customer_id),
+    store_id = 'STORID-' || printf('%02d', store_id),
+	staff_id = 'STAFID-' || printf('%02d', staff_id);
+
+	####updating coloumns in products table#####
+	
+UPDATE products
+SET 
+    product_id = printf('%02d', product_id),
+    brand_id = printf('%02d', brand_id),
+    category_id = printf('%02d', category_id);
+	
+	
+	#####update coloumns in staffs table####
+	
+			UPDATE staffs
+SET 
+    staff_id = 'STAFID-' || printf('%02d', staff_id),
+    store_id = 'STORID-' || printf('%02d', store_id),
+    manager_id = 'MGRID-' || printf('%02d', manager_id);
+	
+	
+	#####update coloumnss  in stocks table####
+	
+	UPDATE stocks
+SET 
+    store_id = 'STORID-' || printf('%02d', store_id),
+    product_id = 'PRID-' || printf('%02d', product_id);
+
+	
+	
+	#####update coloumnss  in stores table####
+	
+	UPDATE stores
+SET 
+    store_id = 'STORID-' || printf('%02d', store_id);
+	
+	
+	
+	###### error solution######3
+	
+	
+	UPDATE products
+SET category_id = CASE 
+    WHEN category_id = 'STORID-01' THEN 'CTID-01'
+    WHEN category_id = 'STORID-02' THEN 'CTID-02'
+    WHEN category_id = 'STORID-03' THEN 'CTID-03'
+    WHEN category_id = 'STORID-04' THEN 'CTID-04'
+    WHEN category_id = 'STORID-05' THEN 'CTID-05'
+    WHEN category_id = 'STORID-06' THEN 'CTID-06'
+    WHEN category_id = 'STORID-07' THEN 'CTID-07'
+    ELSE category_id 
+END
+WHERE category_id IN ('STORID-01', 'STORID-02', 'STORID-03', 'STORID-04', 'STORID-05', 'STORID-06', 'STORID-07');
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+	
+	
+	--------------------------------------------------------------------------------------------------------------------
+	
+	#####structuring a masterdata table in order_items table to include customer information, store information, product information etc.)
+	
+	############### adding the following coloumns, customer_id, state, city, zipcode, order_id, item_id, product_id, quantity, list_price, discount, order_status, store_id, staff_id, order_date, required_date, 
+	required_date, shipped_date and brand_id##############
+	
+	ALTER TABLE order_items
+ADD COLUMN customer_id varchar;
+
+UPDATE order_items
+SET customer_id = (
+    SELECT o.customer_id
+    FROM orders o
+    WHERE o.order_id = order_items.order_id
+);
+
+	ALTER TABLE order_items
+UPDATE COLUMN state TEXT;
+
+update order_items
+set state = (
+select c.state
+from customers c
+where c.customer_id= order_items.customer_id);
+
+alter TABLE order_items_master
+ADD COLUMN brand_id varchar;
+
+alter TABLE order_items_master
+ADD COLUMN city TEXT;
+
+update order_items_master
+set city = (
+select c.city
+from customers c
+where c.customer_id= order_items_master.customer_id);
+
+alter TABLE order_items_master
+ADD COLUMN zip_code TEXT;
+
+update order_items_master
+set zip_code = (
+select c.zip_code
+from customers c
+where c.customer_id= order_items_master.customer_id);
+
+alter TABLE order_items_master
+ADD COLUMN order_status INT;
+
+update order_items_master
+set order_status = (
+select o.order_status
+from orders o
+where o.customer_id = order_items_master.customer_id);
+
+alter TABLE order_items_master
+ADD COLUMN store_id varchar;
+
+update order_items_master
+set store_id = (
+select o.store_id
+from orders o
+where o.customer_id = order_items_master.customer_id);
+
+alter TABLE order_items_master
+ADD COLUMN staff_id varchar;
+
+update order_items_master
+set staff_id = (
+select o.staff_id
+from orders o
+where o.customer_id = order_items_master.customer_id);
+
+alter TABLE order_items_master
+ADD COLUMN order_date date;
+
+
+update order_items_master
+set order_date = (
+select o.order_date
+from orders o
+where o.order_id = order_items_master.order_id);
+
+alter TABLE order_items_master
+ADD COLUMN required_date date;
+
+update order_items_master
+set required_date = (
+select o.required_date
+from orders o
+where o.order_id = order_items_master.order_id);
+
+alter TABLE order_items_master
+ADD COLUMN shipped_date date;
+
+update order_items_master
+set shipped_date = (
+select o.shipped_date
+from orders o
+where o.order_id = order_items_master.order_id);
+
+update order_items_master
+set brand_id = (
+select p.brand_id
+from products p
+where p.product_id = order_items_master.product_id);
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+################# isolating orders without shipping date date and froming a new table for it for further analysis and adding shipped &amp; not shipped coloumn in master table###################################33 
+
+SELECT  * from order_items_master WHERE shipped_date = &quot;NULL&quot;;
+
+################Adding coloumn for shipped, not shipped as final_status#########
+
+alter TABLE order_items_master add COLUMN final_status TEXT;
+
+update order_items_master 
+set 
+final_status = CASE
+when shipped_date is &quot;NULL&quot; then 'not-shipped' else 'shipped'
+end;
+
+select count(distinct product_id) as unique_count from order_items_master;
+
+307 unique orders.
+
+###########TOTAL ORDERS RECEIVED and quantity ordered FOR EACH PRODUCT).###########################
+
+
+select
+product_id,count(order_id) as total_orders,
+sum(quantity) as total_quantity
+from order_items_master
+group by
+product_id;
+
+
+############Write a query to list all customers who have placed at least one order, including their full name and total number of orders#################
+
+
+SELECT customer_id, count( DISTINCT order_id) as total_orders
+from order_items_master
+GROUP by customer_id;
+
+#######################finding the price sold after applying discount######################3
+
+update order_items_master set discount_given = list_price*discount;
+
+UPDATE order_items_master SET final_price = list_price - discount_given;
+
+####################total gross revenue generated by each store####################33
+
+SELECT store_id, sum(final_price) as Total_revenue
+from order_items_master 
+GROUP by store_id;
+
+
+###################city wise orders#####################33
+
+
+SELECT state,city, count(order_id) as Total_Orders
+from order_items_master 
+GROUP by state,city order by Total_orders DESC;
+
+#############Gross revenue generated by each product#####################
+
+SELECT product_id, sum(final_price) as Total_revenue
+from order_items_master 
+GROUP by product_id order by Total_revenue DESC;
+
+
+###########Brand wise orders and revenue and customer preference#######################
+
+SELECT brand_id, sum(quantity) as Total_orders, sum(final_price) as Total_revenue, count(customer_id) as Total_customers
+from order_items_master 
+GROUP by brand_id order by Total_revenue DESC;
+
+
+
+###################Category wise orders and revenue#####################
+
+
+UPDATE order_items_master
+SET 
+    category_id = (SELECT p.category_id FROM products p WHERE p.product_id = order_items_master.product_id),
+    product_id = (SELECT p.product_id FROM products p WHERE p.product_id = order_items_master.product_id)
+WHERE 
+    product_id IN (SELECT product_id FROM products);
+	
+	
+	SELECT category_id, count(order_id) as Total_Orders
+from order_items_master 
+GROUP by category_id;
+
+###############Revenue frim each category, customer preference and total orders #########################
+
+SELECT category_id, sum(final_price) as Total_revenue, count(DISTINCT order_id) as Total_orders, count(DISTINCT customer_id) as Total_customers
+from order_items_master 
+GROUP by category_id order by Total_revenue DESC;
+
+
+	
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
